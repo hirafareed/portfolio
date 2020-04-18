@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e380ce75.chunk.css",
+    "main.js": "/static/js/main.1cc3f08b.chunk.js",
+    "main.js.map": "/static/js/main.1cc3f08b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a27dc4f3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a27dc4f3.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.b0fe85c6.chunk.js": "/static/js/2.b0fe85c6.chunk.js",
+    "static/js/2.b0fe85c6.chunk.js.map": "/static/js/2.b0fe85c6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c7d36bdc7df3241e9125270d1da3935a.js": "/precache-manifest.c7d36bdc7df3241e9125270d1da3935a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.e380ce75.chunk.css.map": "/static/css/main.e380ce75.chunk.css.map",
+    "static/js/2.b0fe85c6.chunk.js.LICENSE.txt": "/static/js/2.b0fe85c6.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/Graphik-Semibold.997ca93d.ttf",
+    "static/media/MobileMenu.scss": "/static/media/Graphik-Medium.f4bf4d53.ttf",
+    "static/media/approahimage1.png": "/static/media/approahimage1.e7ad5d30.png",
+    "static/media/approahimage2.png": "/static/media/approahimage2.d8ed32b6.png",
+    "static/media/arrow.svg": "/static/media/arrow.9aef94ce.svg",
+    "static/media/color1.svg": "/static/media/color1.23cf61cb.svg",
+    "static/media/color2.svg": "/static/media/color2.787d6345.svg",
+    "static/media/color3.svg": "/static/media/color3.6ca28af1.svg",
+    "static/media/color4.svg": "/static/media/color4.f84a624e.svg",
+    "static/media/copyrights.svg": "/static/media/copyrights.c28f37df.svg",
+    "static/media/headerimage.png": "/static/media/headerimage.7d6f0e97.png",
+    "static/media/mainimage.png": "/static/media/mainimage.b84c885a.png",
+    "static/media/screen1.png": "/static/media/screen1.586ff7f6.png",
+    "static/media/screen2.png": "/static/media/screen2.d07aca33.png",
+    "static/media/screen3.png": "/static/media/screen3.7a1190f3.png",
+    "static/media/sketch1.png": "/static/media/sketch1.d92a5360.png",
+    "static/media/sketch2.png": "/static/media/sketch2.541dfd55.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a27dc4f3.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.b0fe85c6.chunk.js",
+    "static/css/main.e380ce75.chunk.css",
+    "static/js/main.1cc3f08b.chunk.js"
+  ]
+}
